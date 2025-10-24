@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tracker</string>
+    <string name="notification_text">"Осталось выполнить %d привычек. Завершите день победой!"</string>
+</resources>
